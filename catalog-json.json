@@ -1,0 +1,3100 @@
+[
+  {
+    "createDate": 1419365011553,
+    "updateDate": 1461265992278,
+    "categoryId": 4004615532,
+    "allListsItemCount": 0,
+    "lists": [
+      {
+        "name": "printlist",
+        "columns": [
+          {
+            "fieldId": 11003532,
+            "fieldName": "Print Model"
+          },
+          {
+            "fieldId": 11003304,
+            "fieldName": "Print Item Number"
+          }
+        ],
+        "rows": [
+          {
+            "valuesInternal": {
+              "0": "Traverse Double Buckle",
+              "1": "59510"
+            },
+            "itemId": 152167251,
+            "categoryId": 594752,
+            "values": [
+              "Traverse Double Buckle",
+              "59510"
+            ],
+            "valuesMapJsonIgnored": {
+              "0": "Traverse Double Buckle",
+              "1": "59510"
+            }
+          }
+        ],
+        "notes": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "typeId": 7018,
+        "seqOrder": 0,
+        "languageId": 1,
+        "templateId": 119935,
+        "id": 120814544,
+        "eventListId": 25118082
+      }
+    ],
+    "assets": [
+      {
+        "createDate": 1419365095711,
+        "updateDate": 1419367407384,
+        "deleted": 0,
+        "url": "511INC/511_59510_traversebelts_092_2014.tif",
+        "parentId": 65806868,
+        "typeId": 7027,
+        "filename": "511_59510_traversebelts_092_2014.tif",
+        "description": "IG Print Photo",
+        "seqOrder": 1,
+        "printActive": 1,
+        "webActive": 0,
+        "typeName": "IG Print Photo",
+        "typeGroupCode": "PRTY",
+        "id": 163181179
+      }
+    ],
+    "masterCategoryId": 1590636,
+    "categoryHierarchy": [
+      "511 Tactical"
+    ],
+    "vendor": {
+      "id": 14001235,
+      "name": "5.11 INC",
+      "number": "1573",
+      "imageFilename1": "https://prd02.apsiva.net/245/AP_SUPPLIER/511INC.tif",
+      "imageFilename2": "https://prd02.apsiva.net/245/AP_SUPPLIER/511INC.png",
+      "imageFilename3": "https://prd02.apsiva.net/245/AP_SUPPLIER/511INC_ALT1.tif",
+      "imageFilename4": "https://prd02.apsiva.net/245/AP_SUPPLIER/511INC_ALT2.tif",
+      "imageFilename5": "https://prd02.apsiva.net/245/AP_SUPPLIER/511INC_ALT3.tif"
+    },
+    "id": 65806868,
+    "number": "65806868",
+    "type": "itemGroup",
+    "typeId": 6806,
+    "values": [
+      {
+        "fieldId": 434,
+        "fieldName": "IG Print Bullets",
+        "value": "1.5\" wide\r5.11 signature reinforced belt tip\rMini flag attachment point with 1\"x1\" loop patch on front\rSubtle 5.11 logo touches throughout",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 433,
+        "fieldName": "IG Print Copy",
+        "value": "A superior multi-purpose belt, the Traverse Double Buckle is 1.5\" wide and features enhanced strength and durability in a comfortable low profile design. Ideal for both casual and duty wear, the Traverse Double Buckle Belt easily supports a holster and sidearm without rolling or deforming. Additional features include lightweight aluminum anodized buckles, ribbed weave nylon webbing, a reinforced signature 5.11 belt tip, and subtle logo touches throughout.",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 449,
+        "fieldName": "IG Print Bold Bullets",
+        "value": "Color: Black, Storm, Battle Brown, Sandstone\rSize: Small - XXXX-Large",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 431,
+        "fieldName": "IG Print Name",
+        "value": "Traverse Double Buckle",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 330,
+        "fieldName": "Item Group Name",
+        "value": "Traverse Double Buckle",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      }
+    ]
+  },
+  {
+    "createDate": 1419365339315,
+    "updateDate": 1461265992278,
+    "categoryId": 4004615532,
+    "allListsItemCount": 0,
+    "lists": [
+      {
+        "name": "printlist",
+        "columns": [
+          {
+            "fieldId": 11003532,
+            "fieldName": "Print Model"
+          },
+          {
+            "fieldId": 11003304,
+            "fieldName": "Print Item Number"
+          }
+        ],
+        "rows": [
+          {
+            "valuesInternal": {
+              "0": "Rapid Response Quarter Zip",
+              "1": "72415"
+            },
+            "itemId": 152167252,
+            "categoryId": 594752,
+            "values": [
+              "Rapid Response Quarter Zip",
+              "72415"
+            ],
+            "valuesMapJsonIgnored": {
+              "0": "Rapid Response Quarter Zip",
+              "1": "72415"
+            }
+          }
+        ],
+        "notes": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "typeId": 7018,
+        "seqOrder": 0,
+        "languageId": 1,
+        "templateId": 119935,
+        "id": 120814545,
+        "eventListId": 25118083
+      }
+    ],
+    "assets": [
+      {
+        "createDate": 1419365391998,
+        "updateDate": 1419367418272,
+        "deleted": 0,
+        "url": "511INC/511_72415_190_rapidquarterzip_2014.tif",
+        "parentId": 65806869,
+        "typeId": 7027,
+        "filename": "511_72415_190_rapidquarterzip_2014.tif",
+        "description": "IG Print Photo",
+        "seqOrder": 1,
+        "printActive": 1,
+        "webActive": 0,
+        "typeName": "IG Print Photo",
+        "typeGroupCode": "PRTY",
+        "id": 163181182
+      }
+    ],
+    "masterCategoryId": 1590636,
+    "categoryHierarchy": [
+      "511 Tactical"
+    ],
+    "vendor": {
+      "id": 14001235,
+      "name": "5.11 INC",
+      "number": "1573",
+      "imageFilename1": "https://prd02.apsiva.net/245/AP_SUPPLIER/511INC.tif",
+      "imageFilename2": "https://prd02.apsiva.net/245/AP_SUPPLIER/511INC.png",
+      "imageFilename3": "https://prd02.apsiva.net/245/AP_SUPPLIER/511INC_ALT1.tif",
+      "imageFilename4": "https://prd02.apsiva.net/245/AP_SUPPLIER/511INC_ALT2.tif",
+      "imageFilename5": "https://prd02.apsiva.net/245/AP_SUPPLIER/511INC_ALT3.tif"
+    },
+    "id": 65806869,
+    "number": "65806869",
+    "type": "itemGroup",
+    "typeId": 6806,
+    "values": [
+      {
+        "fieldId": 434,
+        "fieldName": "IG Print Bullets",
+        "value": "92% polyester / 8% spandex torso\r91% polyester / 9% spandex sleeves, shoulders, and collar\rEmbroidered 5.11 branding\rAlso available in RealTree XTRA",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 449,
+        "fieldName": "IG Print Bold Bullets",
+        "value": "Color: Storm, TDU Green, Regatta\rSize: Small - XX-Large",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 433,
+        "fieldName": "IG Print Copy",
+        "value": "Inspired by our popular Rapid Assault Combat Shirt, the Rapid Response Quarter-zip is built from a high performance, quick-dry, two-way stretch polyester/spandex fabric that provides a snug and secure fit without bunching or rolling. An ideal bottom or mid layer, the Rapid Response features a moisture wicking finish that keeps you warm and dry, a secure zip pocket on the left arm, an embossed loop platform on the left arm, and stylish embroidered 5.11® branding.",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 431,
+        "fieldName": "IG Print Name",
+        "value": "Rapid Response Quarter Zip",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 330,
+        "fieldName": "Item Group Name",
+        "value": "Rapid Response Quarter Zip",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      }
+    ]
+  },
+  {
+    "createDate": 1419365479107,
+    "updateDate": 1461265992278,
+    "categoryId": 4004615532,
+    "allListsItemCount": 0,
+    "lists": [
+      {
+        "name": "printlist",
+        "columns": [
+          {
+            "fieldId": 11003532,
+            "fieldName": "Print Model"
+          },
+          {
+            "fieldId": 11003304,
+            "fieldName": "Print Item Number"
+          }
+        ],
+        "rows": [
+          {
+            "valuesInternal": {
+              "0": "Freedom Flex Long Sleeve Shirt",
+              "1": "72417"
+            },
+            "itemId": 152167253,
+            "categoryId": 594752,
+            "values": [
+              "Freedom Flex Long Sleeve Shirt",
+              "72417"
+            ],
+            "valuesMapJsonIgnored": {
+              "0": "Freedom Flex Long Sleeve Shirt",
+              "1": "72417"
+            }
+          }
+        ],
+        "notes": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "typeId": 7018,
+        "seqOrder": 0,
+        "languageId": 1,
+        "templateId": 119935,
+        "id": 120814546,
+        "eventListId": 25118084
+      }
+    ],
+    "assets": [
+      {
+        "createDate": 1419365563078,
+        "updateDate": 1419367406773,
+        "deleted": 0,
+        "url": "511INC/511_72417_019_freedomflexLS_2014.tif",
+        "parentId": 65806871,
+        "typeId": 7027,
+        "filename": "511_72417_019_freedomflexLS_2014.tif",
+        "description": "IG Print Photo",
+        "seqOrder": 1,
+        "printActive": 1,
+        "webActive": 0,
+        "typeName": "IG Print Photo",
+        "typeGroupCode": "PRTY",
+        "id": 163181185
+      }
+    ],
+    "masterCategoryId": 1590636,
+    "categoryHierarchy": [
+      "511 Tactical"
+    ],
+    "vendor": {
+      "id": 14001235,
+      "name": "5.11 INC",
+      "number": "1573",
+      "imageFilename1": "https://prd02.apsiva.net/245/AP_SUPPLIER/511INC.tif",
+      "imageFilename2": "https://prd02.apsiva.net/245/AP_SUPPLIER/511INC.png",
+      "imageFilename3": "https://prd02.apsiva.net/245/AP_SUPPLIER/511INC_ALT1.tif",
+      "imageFilename4": "https://prd02.apsiva.net/245/AP_SUPPLIER/511INC_ALT2.tif",
+      "imageFilename5": "https://prd02.apsiva.net/245/AP_SUPPLIER/511INC_ALT3.tif"
+    },
+    "id": 65806871,
+    "number": "65806871",
+    "type": "itemGroup",
+    "typeId": 6806,
+    "values": [
+      {
+        "fieldId": 434,
+        "fieldName": "IG Print Bullets",
+        "value": "Built from lightweight 3.9 oz. polyester stretch fabric\rPerforations at underarms, sleeves, and back\rBartacking at major stress points\rSnap closure at collar",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 449,
+        "fieldName": "IG Print Bold Bullets",
+        "value": "Color: Black, Bosun, Sage Green\rSize: Small - XX-Large",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 431,
+        "fieldName": "IG Print Name",
+        "value": "Freedom Flex Long Sleeve Shirt",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 330,
+        "fieldName": "Item Group Name",
+        "value": "Freedom Flex Long Sleeve Shirt",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 433,
+        "fieldName": "IG Print Copy",
+        "value": "The Freedom Flex Woven Shirt from 5.11 Tactical® utilizes an innovative new woven design that offers superior indoor and outdoor comfort in a broad range of job environments. Featuring a unique perforated fabric under the arms, at the sides, and across the back, the Freedom Flex provides dramatic increases to both breathability and freedom of movement. Extra wide pen pockets on each sleeve and dual chest patch pockets offer plenty of storage space, and lightweight construction helps keep you cool and comfortable all day long.",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      }
+    ]
+  },
+  {
+    "createDate": 1419365627013,
+    "updateDate": 1461265992278,
+    "categoryId": 4004615532,
+    "allListsItemCount": 0,
+    "lists": [
+      {
+        "name": "printlist",
+        "columns": [
+          {
+            "fieldId": 11003532,
+            "fieldName": "Print Model"
+          },
+          {
+            "fieldId": 11003304,
+            "fieldName": "Print Item Number"
+          }
+        ],
+        "rows": [
+          {
+            "valuesInternal": {
+              "0": "Stryke Pant",
+              "1": "74369"
+            },
+            "itemId": 152167254,
+            "categoryId": 594752,
+            "values": [
+              "Stryke Pant",
+              "74369"
+            ],
+            "valuesMapJsonIgnored": {
+              "0": "Stryke Pant",
+              "1": "74369"
+            }
+          }
+        ],
+        "notes": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "typeId": 7018,
+        "seqOrder": 0,
+        "languageId": 1,
+        "templateId": 119935,
+        "id": 120814547,
+        "eventListId": 25118085
+      }
+    ],
+    "assets": [
+      {
+        "createDate": 1419365814159,
+        "updateDate": 1419367406085,
+        "deleted": 0,
+        "url": "511INC/511_74369_055_strykepant_2014.tif",
+        "parentId": 65806872,
+        "typeId": 7027,
+        "filename": "511_74369_055_strykepant_2014.tif",
+        "description": "IG Print Photo",
+        "seqOrder": 1,
+        "printActive": 1,
+        "webActive": 0,
+        "typeName": "IG Print Photo",
+        "typeGroupCode": "PRTY",
+        "id": 163181188
+      }
+    ],
+    "masterCategoryId": 1590636,
+    "categoryHierarchy": [
+      "511 Tactical"
+    ],
+    "vendor": {
+      "id": 14001235,
+      "name": "5.11 INC",
+      "number": "1573",
+      "imageFilename1": "https://prd02.apsiva.net/245/AP_SUPPLIER/511INC.tif",
+      "imageFilename2": "https://prd02.apsiva.net/245/AP_SUPPLIER/511INC.png",
+      "imageFilename3": "https://prd02.apsiva.net/245/AP_SUPPLIER/511INC_ALT1.tif",
+      "imageFilename4": "https://prd02.apsiva.net/245/AP_SUPPLIER/511INC_ALT2.tif",
+      "imageFilename5": "https://prd02.apsiva.net/245/AP_SUPPLIER/511INC_ALT3.tif"
+    },
+    "id": 65806872,
+    "number": "65806872",
+    "type": "itemGroup",
+    "typeId": 6806,
+    "values": [
+      {
+        "fieldId": 449,
+        "fieldName": "IG Print Bold Bullets",
+        "value": "Color: Battle Brown, Charcoal, Black, Khaki, TDU Green, Dark Navy, Storm, Tundra.\rSize: 28-44 even sizes, 30-36 even inseams, & 46-54 unhemmed.",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 434,
+        "fieldName": "IG Print Bullets",
+        "value": "Strong and flexible 6.76 oz. Flex-Tac ripstop fabric\rFull gusseted crotch\rDurable YKK® zipper hardware\rAuthentic Prym® snaps\rBartacking at all major stress points\rRinse washed for shrinkage control and comfort",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 431,
+        "fieldName": "IG Print Name",
+        "value": "Stryke Pant",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 330,
+        "fieldName": "Item Group Name",
+        "value": "Stryke Pant",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 433,
+        "fieldName": "IG Print Copy",
+        "value": "The newest multipurpose range pant, the Stryke Pant is crafted from 5.11® Flex-Tac® fabric, a specialized proprietary blend of mechanical stretch polyester and cotton engineered to provide extreme durability and performance in the field. A self-adjusting tunnel waistband, articulated knees, and a full gusseted crotch offer a snug fit while increasing agility and ensuring full freedom of movement. Teflon® fabric treatment provides superior protection against moisture, stains, and soil, and strengthened bartacking at all stress points provides enhanced resilience that stands up to the toughest operational environments.",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      }
+    ]
+  },
+  {
+    "createDate": 1419367721463,
+    "updateDate": 1461265992278,
+    "categoryId": 4004615532,
+    "allListsItemCount": 0,
+    "lists": [
+      {
+        "name": "printlist",
+        "columns": [
+          {
+            "fieldId": 11003532,
+            "fieldName": "Print Model"
+          },
+          {
+            "fieldId": 11003304,
+            "fieldName": "Print Item Number"
+          }
+        ],
+        "rows": [
+          {
+            "valuesInternal": {
+              "0": "Skirmish™",
+              "1": "62479"
+            },
+            "itemId": 152167256,
+            "categoryId": 594752,
+            "values": [
+              "Skirmish™",
+              "62479"
+            ],
+            "valuesMapJsonIgnored": {
+              "0": "Skirmish™",
+              "1": "62479"
+            }
+          }
+        ],
+        "notes": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "typeId": 7018,
+        "seqOrder": 0,
+        "languageId": 1,
+        "templateId": 119935,
+        "id": 120814549,
+        "eventListId": 25118086
+      }
+    ],
+    "assets": [
+      {
+        "createDate": 1419367960969,
+        "updateDate": 1419372738263,
+        "deleted": 0,
+        "url": "CAMELBAKPRODUCTSLLCFILENO73893/CML_Skirmish_62479_2014.tif",
+        "parentId": 65806874,
+        "typeId": 7027,
+        "filename": "CML_Skirmish_62479_2014.tif",
+        "description": "IG Print Photo",
+        "seqOrder": 1,
+        "printActive": 1,
+        "webActive": 0,
+        "typeName": "IG Print Photo",
+        "typeGroupCode": "PRTY",
+        "id": 163181204
+      }
+    ],
+    "masterCategoryId": 1590636,
+    "categoryHierarchy": [
+      "511 Tactical"
+    ],
+    "vendor": {
+      "id": 14001537,
+      "name": "CAMELBAK PRODUCTS LLC, FILE NO 73893",
+      "number": "1138",
+      "imageFilename1": "https://prd02.apsiva.net/245/AP_SUPPLIER/CAMELBAKPRODUCTSLLCFILENO73893.tif",
+      "imageFilename2": "https://prd02.apsiva.net/245/AP_SUPPLIER/CAMELBAKPRODUCTSLLCFILENO73893.png",
+      "imageFilename3": "https://prd02.apsiva.net/245/AP_SUPPLIER/CAMELBAKPRODUCTSLLCFILENO73893_ALT1.tif",
+      "imageFilename4": "https://prd02.apsiva.net/245/AP_SUPPLIER/CAMELBAKPRODUCTSLLCFILENO73893_ALT2.tif",
+      "imageFilename5": "https://prd02.apsiva.net/245/AP_SUPPLIER/CAMELBAKPRODUCTSLLCFILENO73893_ALT3.tif"
+    },
+    "id": 65806874,
+    "number": "65806874",
+    "type": "itemGroup",
+    "typeId": 6806,
+    "values": [
+      {
+        "fieldId": 433,
+        "fieldName": "IG Print Copy",
+        "value": "Contoured back panel with integrated mil spec Antidote® Lumbar reservoir makes this our most comfortable pack for one or two day excursions.",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 449,
+        "fieldName": "IG Print Bold Bullets",
+        "value": "Coyote, Multicam®",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 434,
+        "fieldName": "IG Print Bullets",
+        "value": "Mil Spec Antidote® 100 oz (3L) Lumbar Reservoir\rQuick Link™ Exit Port & Drink Tube: clicks off for faster refilling with auto shut-off\rInnovative, low-profile composite MOLLE on harness for front-facing pouch attach\rInternal MOLLE panel allows custom configuration of essential gear/pouches\rMultiple drink tube exit ports route drink tube over shoulder or under arm\rLower access zipper allows you to quickly stash or grab an item from the main compartment\rDual full clamshell openings for easy access to separate compartments\rLow profile, padded side pockets protect critical gear\rDimensions: 20.5 in x 15 in x 9.5 in (52 cm x 38 cm x 24 cm)\rVolume: 2014 cu in (33L) + 3L reservoir\rWeight empty reservoir: 4.9 lb (2.2 kg)",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 431,
+        "fieldName": "IG Print Name",
+        "value": "Skirmish™",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 330,
+        "fieldName": "Item Group Name",
+        "value": "Skirmish™",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      }
+    ]
+  },
+  {
+    "createDate": 1430330810661,
+    "updateDate": 1461266008311,
+    "categoryId": 4004615533,
+    "allListsItemCount": 0,
+    "lists": [
+      {
+        "name": "printlist",
+        "columns": [
+          {
+            "fieldId": 11003532,
+            "fieldName": "Print Model"
+          },
+          {
+            "fieldId": 11003304,
+            "fieldName": "Print Item Number"
+          }
+        ],
+        "rows": [
+          {
+            "valuesInternal": {
+              "0": "ISU® 90 4-Door",
+              "1": "56X02-000"
+            },
+            "itemId": 4052110402,
+            "categoryId": 594752,
+            "values": [
+              "ISU® 90 4-Door",
+              "56X02-000"
+            ],
+            "valuesMapJsonIgnored": {
+              "0": "ISU® 90 4-Door",
+              "1": "56X02-000"
+            }
+          }
+        ],
+        "notes": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "typeId": 7018,
+        "seqOrder": 0,
+        "languageId": 1,
+        "templateId": 119935,
+        "id": 4080806592,
+        "eventListId": 25118087
+      }
+    ],
+    "assets": [
+      {
+        "createDate": 1430330974007,
+        "updateDate": 1430352040167,
+        "deleted": 0,
+        "url": "AARMOBILITYSYSTEMS/ISU90_4Door_1_2015.tif",
+        "parentId": 4015800045,
+        "typeId": 7027,
+        "filename": "ISU90_4Door_1_2015.tif",
+        "description": "IG Print Photo",
+        "seqOrder": 1,
+        "printActive": 1,
+        "webActive": 0,
+        "typeName": "IG Print Photo",
+        "typeGroupCode": "PRTY",
+        "id": 4062643989
+      }
+    ],
+    "masterCategoryId": 4000586136,
+    "categoryHierarchy": [
+      "AAR"
+    ],
+    "vendor": {
+      "id": 14002288,
+      "name": "AAR MOBILITY SYSTEMS",
+      "number": "2907",
+      "imageFilename1": "https://prd02.apsiva.net/245/AP_SUPPLIER/AARMOBILITYSYSTEMS.tif",
+      "imageFilename2": "https://prd02.apsiva.net/245/AP_SUPPLIER/AARMOBILITYSYSTEMS.png",
+      "imageFilename3": "https://prd02.apsiva.net/245/AP_SUPPLIER/AARMOBILITYSYSTEMS_ALT1.tif",
+      "imageFilename4": "https://prd02.apsiva.net/245/AP_SUPPLIER/AARMOBILITYSYSTEMS_ALT2.tif",
+      "imageFilename5": "https://prd02.apsiva.net/245/AP_SUPPLIER/AARMOBILITYSYSTEMS_ALT3.tif"
+    },
+    "id": 4015800045,
+    "number": "4015800045",
+    "type": "itemGroup",
+    "typeId": 6806,
+    "values": [
+      {
+        "fieldId": 434,
+        "fieldName": "IG Print Bullets",
+        "value": "108”W X 88”L X 91.35”H\rTare Weight: 1,720 lbs.\rPayload: 10,000 lbs.\rMax Gross: 11,720\r4-Way Forkliftable\rIntermodal-land, air, sea\rCSC Certified 2-High Stackable\r463L Pallet Base",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 431,
+        "fieldName": "IG Print Name",
+        "value": "ISU® 90 4-Door",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 330,
+        "fieldName": "Item Group Name",
+        "value": "ISU® 90 4-Door",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      }
+    ]
+  },
+  {
+    "createDate": 1430331469555,
+    "updateDate": 1461266008311,
+    "categoryId": 4004615533,
+    "allListsItemCount": 0,
+    "lists": [
+      {
+        "name": "printlist",
+        "columns": [
+          {
+            "fieldId": 11003532,
+            "fieldName": "Print Model"
+          },
+          {
+            "fieldId": 11003304,
+            "fieldName": "Print Item Number"
+          }
+        ],
+        "rows": [
+          {
+            "valuesInternal": {
+              "0": "ISU® 90KCI Dog Kennel",
+              "1": "56X33-160"
+            },
+            "itemId": 4052110403,
+            "categoryId": 594752,
+            "values": [
+              "ISU® 90KCI Dog Kennel",
+              "56X33-160"
+            ],
+            "valuesMapJsonIgnored": {
+              "0": "ISU® 90KCI Dog Kennel",
+              "1": "56X33-160"
+            }
+          }
+        ],
+        "notes": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "typeId": 7018,
+        "seqOrder": 0,
+        "languageId": 1,
+        "templateId": 119935,
+        "id": 4080806593,
+        "eventListId": 25118088
+      }
+    ],
+    "assets": [
+      {
+        "createDate": 1430331564695,
+        "updateDate": 1430421818229,
+        "deleted": 0,
+        "url": "AARMOBILITYSYSTEMS/ISU90KCI_1_2015.tif",
+        "parentId": 4015800046,
+        "typeId": 7027,
+        "filename": "ISU90KCI_1_2015.tif",
+        "description": "IG Print Photo",
+        "seqOrder": 1,
+        "printActive": 1,
+        "webActive": 0,
+        "typeName": "IG Print Photo",
+        "typeGroupCode": "PRTY",
+        "id": 4062643994
+      }
+    ],
+    "masterCategoryId": 4000586136,
+    "categoryHierarchy": [
+      "AAR"
+    ],
+    "vendor": {
+      "id": 14002288,
+      "name": "AAR MOBILITY SYSTEMS",
+      "number": "2907",
+      "imageFilename1": "https://prd02.apsiva.net/245/AP_SUPPLIER/AARMOBILITYSYSTEMS.tif",
+      "imageFilename2": "https://prd02.apsiva.net/245/AP_SUPPLIER/AARMOBILITYSYSTEMS.png",
+      "imageFilename3": "https://prd02.apsiva.net/245/AP_SUPPLIER/AARMOBILITYSYSTEMS_ALT1.tif",
+      "imageFilename4": "https://prd02.apsiva.net/245/AP_SUPPLIER/AARMOBILITYSYSTEMS_ALT2.tif",
+      "imageFilename5": "https://prd02.apsiva.net/245/AP_SUPPLIER/AARMOBILITYSYSTEMS_ALT3.tif"
+    },
+    "id": 4015800046,
+    "number": "4015800046",
+    "type": "itemGroup",
+    "typeId": 6806,
+    "values": [
+      {
+        "fieldId": 434,
+        "fieldName": "IG Print Bullets",
+        "value": "108”W X 88”L X 91.35”H",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 433,
+        "fieldName": "IG Print Copy",
+        "value": "3-dog kennel with storage quadrants, shelving, dog runs, fencing, dog doors, hazmat doors and ECU.",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 431,
+        "fieldName": "IG Print Name",
+        "value": "ISU® 90KCI Dog Kennel",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 330,
+        "fieldName": "Item Group Name",
+        "value": "ISU® 90KCI Dog Kennel",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      }
+    ]
+  },
+  {
+    "createDate": 1430331667509,
+    "updateDate": 1461266008311,
+    "categoryId": 4004615533,
+    "allListsItemCount": 0,
+    "lists": [
+      {
+        "name": "printlist",
+        "columns": [
+          {
+            "fieldId": 11003532,
+            "fieldName": "Print Model"
+          },
+          {
+            "fieldId": 11003304,
+            "fieldName": "Print Item Number"
+          }
+        ],
+        "rows": [
+          {
+            "valuesInternal": {
+              "0": "ISU® 90EO Weapons Room",
+              "1": "56X21-XXX"
+            },
+            "itemId": 4052110404,
+            "categoryId": 594752,
+            "values": [
+              "ISU® 90EO Weapons Room",
+              "56X21-XXX"
+            ],
+            "valuesMapJsonIgnored": {
+              "0": "ISU® 90EO Weapons Room",
+              "1": "56X21-XXX"
+            }
+          }
+        ],
+        "notes": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "typeId": 7018,
+        "seqOrder": 0,
+        "languageId": 1,
+        "templateId": 119935,
+        "id": 4080806594,
+        "eventListId": 25118089
+      }
+    ],
+    "assets": [
+      {
+        "createDate": 1430331839014,
+        "updateDate": 1430352074014,
+        "deleted": 0,
+        "url": "AARMOBILITYSYSTEMS/ISU90_WeaponsRoom_1_2015.tif",
+        "parentId": 4015800047,
+        "typeId": 7027,
+        "filename": "ISU90_WeaponsRoom_1_2015.tif",
+        "description": "IG Print Photo",
+        "seqOrder": 1,
+        "printActive": 1,
+        "webActive": 0,
+        "typeName": "IG Print Photo",
+        "typeGroupCode": "PRTY",
+        "id": 4062644001
+      }
+    ],
+    "masterCategoryId": 4000586136,
+    "categoryHierarchy": [
+      "AAR"
+    ],
+    "vendor": {
+      "id": 14002288,
+      "name": "AAR MOBILITY SYSTEMS",
+      "number": "2907",
+      "imageFilename1": "https://prd02.apsiva.net/245/AP_SUPPLIER/AARMOBILITYSYSTEMS.tif",
+      "imageFilename2": "https://prd02.apsiva.net/245/AP_SUPPLIER/AARMOBILITYSYSTEMS.png",
+      "imageFilename3": "https://prd02.apsiva.net/245/AP_SUPPLIER/AARMOBILITYSYSTEMS_ALT1.tif",
+      "imageFilename4": "https://prd02.apsiva.net/245/AP_SUPPLIER/AARMOBILITYSYSTEMS_ALT2.tif",
+      "imageFilename5": "https://prd02.apsiva.net/245/AP_SUPPLIER/AARMOBILITYSYSTEMS_ALT3.tif"
+    },
+    "id": 4015800047,
+    "number": "4015800047",
+    "type": "itemGroup",
+    "typeId": 6806,
+    "values": [
+      {
+        "fieldId": 434,
+        "fieldName": "IG Print Bullets",
+        "value": "88”W X 108”L X 91.35”H",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 433,
+        "fieldName": "IG Print Copy",
+        "value": "Configurable to meet your requirements based on quantity and type of weapons.",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 431,
+        "fieldName": "IG Print Name",
+        "value": "ISU® 90EO Weapons Room",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 330,
+        "fieldName": "Item Group Name",
+        "value": "ISU® 90EO Weapons Room",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      }
+    ]
+  },
+  {
+    "createDate": 1430331927871,
+    "updateDate": 1461266008311,
+    "categoryId": 4004615533,
+    "allListsItemCount": 0,
+    "lists": [
+      {
+        "name": "printlist",
+        "columns": [
+          {
+            "fieldId": 11003532,
+            "fieldName": "Print Model"
+          },
+          {
+            "fieldId": 11003304,
+            "fieldName": "Print Item Number"
+          }
+        ],
+        "rows": [
+          {
+            "valuesInternal": {
+              "0": "Expandable ISU® (EISU)",
+              "1": "56X4X-000"
+            },
+            "itemId": 4052110405,
+            "categoryId": 594752,
+            "values": [
+              "Expandable ISU® (EISU)",
+              "56X4X-000"
+            ],
+            "valuesMapJsonIgnored": {
+              "0": "Expandable ISU® (EISU)",
+              "1": "56X4X-000"
+            }
+          }
+        ],
+        "notes": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "typeId": 7018,
+        "seqOrder": 0,
+        "languageId": 1,
+        "templateId": 119935,
+        "id": 4080806595,
+        "eventListId": 25118090
+      }
+    ],
+    "assets": [
+      {
+        "createDate": 1430332077220,
+        "updateDate": 1430352034109,
+        "deleted": 0,
+        "url": "AARMOBILITYSYSTEMS/EISU_1_2015.tif",
+        "parentId": 4015800048,
+        "typeId": 7027,
+        "filename": "EISU_1_2015.tif",
+        "description": "IG Print Photo",
+        "seqOrder": 1,
+        "printActive": 1,
+        "webActive": 0,
+        "typeName": "IG Print Photo",
+        "typeGroupCode": "PRTY",
+        "id": 4062644006
+      }
+    ],
+    "masterCategoryId": 4000586136,
+    "categoryHierarchy": [
+      "AAR"
+    ],
+    "vendor": {
+      "id": 14002288,
+      "name": "AAR MOBILITY SYSTEMS",
+      "number": "2907",
+      "imageFilename1": "https://prd02.apsiva.net/245/AP_SUPPLIER/AARMOBILITYSYSTEMS.tif",
+      "imageFilename2": "https://prd02.apsiva.net/245/AP_SUPPLIER/AARMOBILITYSYSTEMS.png",
+      "imageFilename3": "https://prd02.apsiva.net/245/AP_SUPPLIER/AARMOBILITYSYSTEMS_ALT1.tif",
+      "imageFilename4": "https://prd02.apsiva.net/245/AP_SUPPLIER/AARMOBILITYSYSTEMS_ALT2.tif",
+      "imageFilename5": "https://prd02.apsiva.net/245/AP_SUPPLIER/AARMOBILITYSYSTEMS_ALT3.tif"
+    },
+    "id": 4015800048,
+    "number": "4015800048",
+    "type": "itemGroup",
+    "typeId": 6806,
+    "values": [
+      {
+        "fieldId": 433,
+        "fieldName": "IG Print Copy",
+        "value": "3-in-1 expandable version of ISU® 90; side rooms enclosed with non-insulated, durable fabric walls and ceiling supported by struts; offers 159 sq. ft. of enclosed workspace; multiple configurations and applications available.",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 434,
+        "fieldName": "IG Print Bullets",
+        "value": "88”W X 108”L X 91.47”H stowed\r245.20”W X 108”L X 91.47”H deployed",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 431,
+        "fieldName": "IG Print Name",
+        "value": "Expandable ISU® (EISU)",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 330,
+        "fieldName": "Item Group Name",
+        "value": "Expandable ISU® (EISU)",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      }
+    ]
+  },
+  {
+    "createDate": 1430332131797,
+    "updateDate": 1461266008311,
+    "categoryId": 4004615533,
+    "allListsItemCount": 0,
+    "lists": [
+      {
+        "name": "printlist",
+        "columns": [
+          {
+            "fieldId": 11003532,
+            "fieldName": "Print Model"
+          },
+          {
+            "fieldId": 11003304,
+            "fieldName": "Print Item Number"
+          }
+        ],
+        "rows": [
+          {
+            "valuesInternal": {
+              "0": "ISU® 96RC Refrigerated",
+              "1": "50148-XXX"
+            },
+            "itemId": 4052110406,
+            "categoryId": 594752,
+            "values": [
+              "ISU® 96RC Refrigerated",
+              "50148-XXX"
+            ],
+            "valuesMapJsonIgnored": {
+              "0": "ISU® 96RC Refrigerated",
+              "1": "50148-XXX"
+            }
+          }
+        ],
+        "notes": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "typeId": 7018,
+        "seqOrder": 0,
+        "languageId": 1,
+        "templateId": 119935,
+        "id": 4080806596,
+        "eventListId": 25118091
+      }
+    ],
+    "assets": [
+      {
+        "createDate": 1430332343397,
+        "updateDate": 1430421816903,
+        "deleted": 0,
+        "url": "AARMOBILITYSYSTEMS/ISU-96RC_1_2015.tif",
+        "parentId": 4015800049,
+        "typeId": 7027,
+        "filename": "ISU-96RC_1_2015.tif",
+        "description": "IG Print Photo",
+        "seqOrder": 1,
+        "printActive": 1,
+        "webActive": 0,
+        "typeName": "IG Print Photo",
+        "typeGroupCode": "PRTY",
+        "id": 4062644013
+      }
+    ],
+    "masterCategoryId": 4000586136,
+    "categoryHierarchy": [
+      "AAR"
+    ],
+    "vendor": {
+      "id": 14002288,
+      "name": "AAR MOBILITY SYSTEMS",
+      "number": "2907",
+      "imageFilename1": "https://prd02.apsiva.net/245/AP_SUPPLIER/AARMOBILITYSYSTEMS.tif",
+      "imageFilename2": "https://prd02.apsiva.net/245/AP_SUPPLIER/AARMOBILITYSYSTEMS.png",
+      "imageFilename3": "https://prd02.apsiva.net/245/AP_SUPPLIER/AARMOBILITYSYSTEMS_ALT1.tif",
+      "imageFilename4": "https://prd02.apsiva.net/245/AP_SUPPLIER/AARMOBILITYSYSTEMS_ALT2.tif",
+      "imageFilename5": "https://prd02.apsiva.net/245/AP_SUPPLIER/AARMOBILITYSYSTEMS_ALT3.tif"
+    },
+    "id": 4015800049,
+    "number": "4015800049",
+    "type": "itemGroup",
+    "typeId": 6806,
+    "values": [
+      {
+        "fieldId": 431,
+        "fieldName": "IG Print Name",
+        "value": "ISU® 96RC Refrigerated",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 330,
+        "fieldName": "Item Group Name",
+        "value": "ISU® 96RC Refrigerated",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 433,
+        "fieldName": "IG Print Copy",
+        "value": "Self-contained reefer for storage of temperature sensitive and perishable items.",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      }
+    ]
+  },
+  {
+    "createDate": 1407871567672,
+    "updateDate": 1461266030171,
+    "categoryId": 4004615534,
+    "allListsItemCount": 0,
+    "lists": [
+      {
+        "name": "printlist",
+        "columns": [
+          {
+            "fieldId": 11003532,
+            "fieldName": "Print Model"
+          },
+          {
+            "fieldId": 11003304,
+            "fieldName": "Print Item Number"
+          }
+        ],
+        "rows": [
+          {
+            "valuesInternal": {
+              "0": "SENTINEL",
+              "1": "AI-SENT"
+            },
+            "itemId": 152160636,
+            "categoryId": 594752,
+            "values": [
+              "SENTINEL",
+              "AI-SENT"
+            ],
+            "valuesMapJsonIgnored": {
+              "0": "SENTINEL",
+              "1": "AI-SENT"
+            }
+          }
+        ],
+        "notes": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "typeId": 7018,
+        "seqOrder": 0,
+        "languageId": 1,
+        "templateId": 0,
+        "id": 120813909,
+        "eventListId": 25118092
+      }
+    ],
+    "assets": [
+      {
+        "createDate": 1407871824237,
+        "updateDate": 1410986370978,
+        "deleted": 0,
+        "url": "ADAMSINDUSTRIESINC/AI_Sentinel_2_2014.tif",
+        "parentId": 65806301,
+        "typeId": 7027,
+        "filename": "AI_Sentinel_2_2014.tif",
+        "description": "IG Print Photo",
+        "seqOrder": 4,
+        "printActive": 1,
+        "webActive": 0,
+        "typeName": "IG Print Photo",
+        "typeGroupCode": "PRTY",
+        "id": 163035526
+      }
+    ],
+    "masterCategoryId": 1589711,
+    "categoryHierarchy": [
+      "Adams Industries"
+    ],
+    "vendor": {
+      "id": 14001219,
+      "name": "ADAMS INDUSTRIES INC",
+      "number": "1244",
+      "imageFilename1": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADAMSINDUSTRIESINC.tif",
+      "imageFilename2": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADAMSINDUSTRIESINC.png",
+      "imageFilename3": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADAMSINDUSTRIESINC_ALT1.tif",
+      "imageFilename4": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADAMSINDUSTRIESINC_ALT2.tif",
+      "imageFilename5": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADAMSINDUSTRIESINC_ALT3.tif"
+    },
+    "id": 65806301,
+    "number": "65806301",
+    "type": "itemGroup",
+    "typeId": 6806,
+    "values": [
+      {
+        "fieldId": 431,
+        "fieldName": "IG Print Name",
+        "value": "Sentinel",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 330,
+        "fieldName": "Item Group Name",
+        "value": "Sentinel",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 433,
+        "fieldName": "IG Print Copy",
+        "value": "The SENTINEL corrects the errors of other binocular nightvision systems.  Rather than the problematic swingarm interpupilary adjustment commonly used, the SENTINEL’s true horizontal interpupillary adjustments will not weaken as the goggle ages and a fine adjustment that holds the setting in place.\r\rWhereas some forsake key components in favor of lighter weight, the SENTINEL takes a balanced approach and maintains important functionalities like the onboard diopter adjustment so that individual soldiers are not responsible for detachable, and losable, critical components.\r\rThe SENTINEL is available with dovetail (PVS-15 style), bayonet (PVS-7B style) and ANVIS mounting solutions. Choose between ANVIS or PVS-14 style optics and automatic or manual gain control.\rSENTINELs come as complete systems or kits to upgrade older or broken systems to a higher standard.",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      }
+    ]
+  },
+  {
+    "createDate": 1407872330218,
+    "updateDate": 1461266030171,
+    "categoryId": 4004615534,
+    "allListsItemCount": 0,
+    "lists": [
+      {
+        "name": "printlist",
+        "columns": [
+          {
+            "fieldId": 11003532,
+            "fieldName": "Print Model"
+          },
+          {
+            "fieldId": 11003304,
+            "fieldName": "Print Item Number"
+          }
+        ],
+        "rows": [
+          {
+            "valuesInternal": {
+              "0": "PITBULL",
+              "1": "AI-PIT"
+            },
+            "itemId": 152160637,
+            "categoryId": 594752,
+            "values": [
+              "PITBULL",
+              "AI-PIT"
+            ],
+            "valuesMapJsonIgnored": {
+              "0": "PITBULL",
+              "1": "AI-PIT"
+            }
+          }
+        ],
+        "notes": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "typeId": 7018,
+        "seqOrder": 0,
+        "languageId": 1,
+        "templateId": 0,
+        "id": 120813910,
+        "eventListId": 25118093
+      }
+    ],
+    "assets": [
+      {
+        "createDate": 1408394899024,
+        "updateDate": 1408401170936,
+        "deleted": 0,
+        "url": "ADAMSINDUSTRIESINC/AI_PITBULL_2014.tif",
+        "parentId": 65806302,
+        "typeId": 7027,
+        "filename": "AI_PITBULL_2014.tif",
+        "description": "IG Print Photo",
+        "seqOrder": 1,
+        "printActive": 1,
+        "webActive": 0,
+        "typeName": "IG Print Photo",
+        "typeGroupCode": "PRTY",
+        "id": 163125020
+      }
+    ],
+    "masterCategoryId": 1589711,
+    "categoryHierarchy": [
+      "Adams Industries"
+    ],
+    "vendor": {
+      "id": 14001219,
+      "name": "ADAMS INDUSTRIES INC",
+      "number": "1244",
+      "imageFilename1": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADAMSINDUSTRIESINC.tif",
+      "imageFilename2": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADAMSINDUSTRIESINC.png",
+      "imageFilename3": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADAMSINDUSTRIESINC_ALT1.tif",
+      "imageFilename4": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADAMSINDUSTRIESINC_ALT2.tif",
+      "imageFilename5": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADAMSINDUSTRIESINC_ALT3.tif"
+    },
+    "id": 65806302,
+    "number": "65806302",
+    "type": "itemGroup",
+    "typeId": 6806,
+    "values": [
+      {
+        "fieldId": 431,
+        "fieldName": "IG Print Name",
+        "value": "PITBULL",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 330,
+        "fieldName": "Item Group Name",
+        "value": "PITBULL",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 433,
+        "fieldName": "IG Print Copy",
+        "value": "The Pitbull was designed to respond to the need for a smaller and lighter monocular that is ruggedized and uses in-stock image intensifiers, optics, and standard AN/PVS-14 accessories. The Pitbull accomplished both these goals admirably and includes upgrades to current systems such as using the choice of either AA or 3V Lithium battery and the ability to mount the PVS-7 IR illuminator focusing lens for greater versatility of the IR illuminator.\r\rLaw Enforcement Agencies—if you received broken surplus ANVIS-9s and now don't know what to do with them—we can turn each unit into TWO Pitbulls and you can use standard mounts. The Pitbull is available as a complete system, build kit, or we can build you systems using the parts you provide.",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      }
+    ]
+  },
+  {
+    "createDate": 1407872903637,
+    "updateDate": 1461266030171,
+    "categoryId": 4004615534,
+    "allListsItemCount": 0,
+    "lists": [
+      {
+        "name": "printlist",
+        "columns": [
+          {
+            "fieldId": 11003532,
+            "fieldName": "Print Model"
+          },
+          {
+            "fieldId": 11003304,
+            "fieldName": "Print Item Number"
+          }
+        ],
+        "rows": [
+          {
+            "valuesInternal": {
+              "0": "Helm-Bino Mount",
+              "1": "AI-HMBINO"
+            },
+            "itemId": 152160638,
+            "categoryId": 594752,
+            "values": [
+              "Helm-Bino Mount",
+              "AI-HMBINO"
+            ],
+            "valuesMapJsonIgnored": {
+              "0": "Helm-Bino Mount",
+              "1": "AI-HMBINO"
+            }
+          }
+        ],
+        "notes": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "typeId": 7018,
+        "seqOrder": 0,
+        "languageId": 1,
+        "templateId": 0,
+        "id": 120813911,
+        "eventListId": 25118094
+      }
+    ],
+    "assets": [
+      {
+        "createDate": 1407873217619,
+        "updateDate": 1407877546654,
+        "deleted": 0,
+        "url": "ADAMSINDUSTRIESINC/AI_BinoMount1_2014.tif",
+        "parentId": 65806303,
+        "typeId": 7027,
+        "filename": "AI_BinoMount1_2014.tif",
+        "description": "IG Print Photo",
+        "seqOrder": 1,
+        "printActive": 1,
+        "webActive": 0,
+        "typeName": "IG Print Photo",
+        "typeGroupCode": "PRTY",
+        "id": 163035529
+      }
+    ],
+    "masterCategoryId": 1589711,
+    "categoryHierarchy": [
+      "Adams Industries"
+    ],
+    "vendor": {
+      "id": 14001219,
+      "name": "ADAMS INDUSTRIES INC",
+      "number": "1244",
+      "imageFilename1": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADAMSINDUSTRIESINC.tif",
+      "imageFilename2": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADAMSINDUSTRIESINC.png",
+      "imageFilename3": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADAMSINDUSTRIESINC_ALT1.tif",
+      "imageFilename4": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADAMSINDUSTRIESINC_ALT2.tif",
+      "imageFilename5": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADAMSINDUSTRIESINC_ALT3.tif"
+    },
+    "id": 65806303,
+    "number": "65806303",
+    "type": "itemGroup",
+    "typeId": 6806,
+    "values": [
+      {
+        "fieldId": 434,
+        "fieldName": "IG Print Bullets",
+        "value": "Further benefits:\rHigh Definition multi-coated lenses w/ Fast Close Focus from 6' to infinity. Field of view at 1,000 yards: 375 feet.\rMilitary Grade Rubber Armored and Waterproofing, submersion to 6 feet.\rMounting systems available for dovetail (PVS-15 style) & Bayonet (PVS-7B style) mounts.",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 431,
+        "fieldName": "IG Print Name",
+        "value": "Helm-Bino Mount",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 330,
+        "fieldName": "Item Group Name",
+        "value": "Helm-Bino Mount",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 433,
+        "fieldName": "IG Print Copy",
+        "value": "The Helm-Bino Mount places Steiner 8x24 binoculars in front of your eyes using your night vision helmet or head mount.\rForget arm strain from long periods of holding binoculars up to your eyes - or even worse the possibility of decreased vigilance due to operator fatigue. The HELM-BINO-ST places the binoculars at the perfect distance from your eyes, and you still have all the adjustments provided you by your helmet or head mount. When you no longer need to survey the area simply \"flip-up\" the goggles like you would a set of night vision. They can stay in the stowed position until needed again.",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      }
+    ]
+  },
+  {
+    "createDate": 1407873301759,
+    "updateDate": 1461266030171,
+    "categoryId": 4004615534,
+    "allListsItemCount": 0,
+    "lists": [
+      {
+        "name": "printlist",
+        "columns": [
+          {
+            "fieldId": 11003532,
+            "fieldName": "Print Model"
+          },
+          {
+            "fieldId": 11003304,
+            "fieldName": "Print Item Number"
+          }
+        ],
+        "rows": [
+          {
+            "valuesInternal": {
+              "0": "Contact ADS for ordering information",
+              "1": null
+            },
+            "itemId": 52554600,
+            "categoryId": 1589272,
+            "values": [
+              "Contact ADS for ordering information",
+              null
+            ],
+            "valuesMapJsonIgnored": {
+              "0": "Contact ADS for ordering information",
+              "1": null
+            }
+          }
+        ],
+        "notes": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "typeId": 7018,
+        "seqOrder": 0,
+        "languageId": 1,
+        "templateId": 0,
+        "id": 120813912,
+        "eventListId": 25118095
+      }
+    ],
+    "assets": [
+      {
+        "createDate": 1407873497699,
+        "updateDate": 1407877546654,
+        "deleted": 0,
+        "url": "ADAMSINDUSTRIESINC/AI_Minus-Blue-Filter_2014.tif",
+        "parentId": 65806304,
+        "typeId": 7027,
+        "filename": "AI_Minus-Blue-Filter_2014.tif",
+        "description": "IG Print Photo",
+        "seqOrder": 1,
+        "printActive": 1,
+        "webActive": 0,
+        "typeName": "IG Print Photo",
+        "typeGroupCode": "PRTY",
+        "id": 163035532
+      }
+    ],
+    "masterCategoryId": 1589711,
+    "categoryHierarchy": [
+      "Adams Industries"
+    ],
+    "vendor": {
+      "id": 14001219,
+      "name": "ADAMS INDUSTRIES INC",
+      "number": "1244",
+      "imageFilename1": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADAMSINDUSTRIESINC.tif",
+      "imageFilename2": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADAMSINDUSTRIESINC.png",
+      "imageFilename3": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADAMSINDUSTRIESINC_ALT1.tif",
+      "imageFilename4": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADAMSINDUSTRIESINC_ALT2.tif",
+      "imageFilename5": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADAMSINDUSTRIESINC_ALT3.tif"
+    },
+    "id": 65806304,
+    "number": "65806304",
+    "type": "itemGroup",
+    "typeId": 6806,
+    "values": [
+      {
+        "fieldId": 433,
+        "fieldName": "IG Print Copy",
+        "value": "Adams Industries manufactures several lines of optical filters that are key to night vision use.  They include:",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 431,
+        "fieldName": "IG Print Name",
+        "value": "Optical Filters",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 330,
+        "fieldName": "Item Group Name",
+        "value": "Optical Filters",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 434,
+        "fieldName": "IG Print Bullets",
+        "value": "Screw in sacrificial filters with the ability to use the glass portion of the standard overmolded sac filter as the insert.\rScrew in minus blue filters that allow the use of ground combat goggles inside vehicles with ANVIS compatible lighting and diminish the blooming effect of lights in urban/semi-urban areas.  Particularly useful if your goggles are not gated.  Never have your goggles overcome with the interior lights of a vehicle or a stray street light again.\rHD-NVG filters:  Provide color cues to operators using dual tube systems.  When looking at a person in a red shirt would you like to actrually see a red shirt?  Then you need HD-NVG filters.",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      }
+    ]
+  },
+  {
+    "createDate": 1399925288498,
+    "updateDate": 1461266041467,
+    "categoryId": 4004615535,
+    "allListsItemCount": 0,
+    "lists": [
+      {
+        "name": "printlist",
+        "columns": [
+          {
+            "fieldId": 11003532,
+            "fieldName": "Print Model"
+          },
+          {
+            "fieldId": 11003304,
+            "fieldName": "Print Item Number"
+          }
+        ],
+        "rows": [
+          {
+            "valuesInternal": {
+              "0": "LowCam VI54 Portable UVIS",
+              "1": "VI54"
+            },
+            "itemId": 52558155,
+            "categoryId": 594752,
+            "values": [
+              "LowCam VI54 Portable UVIS",
+              "VI54"
+            ],
+            "valuesMapJsonIgnored": {
+              "0": "LowCam VI54 Portable UVIS",
+              "1": "VI54"
+            }
+          }
+        ],
+        "notes": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "typeId": 7018,
+        "seqOrder": 0,
+        "languageId": 1,
+        "templateId": 119935,
+        "id": 80831366,
+        "eventListId": 25118096
+      }
+    ],
+    "assets": [
+      {
+        "createDate": 1399925411674,
+        "updateDate": 1414419969521,
+        "deleted": 0,
+        "url": "ADVANCEDDETECTIONTECHNOLOGY/VI54_System.tif",
+        "parentId": 65805324,
+        "typeId": 7027,
+        "filename": "VI54_System.tif",
+        "description": "IG Print Photo",
+        "seqOrder": 1,
+        "printActive": 1,
+        "webActive": 0,
+        "typeName": "IG Print Photo",
+        "typeGroupCode": "PRTY",
+        "id": 162960247
+      }
+    ],
+    "masterCategoryId": 1589368,
+    "categoryHierarchy": [
+      "Advanced Detection"
+    ],
+    "vendor": {
+      "id": 14001417,
+      "name": "ADVANCED DETECTION TECHNOLOGY",
+      "number": "1583",
+      "imageFilename1": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANCEDDETECTIONTECHNOLOGY.tif",
+      "imageFilename2": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANCEDDETECTIONTECHNOLOGY.png",
+      "imageFilename3": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANCEDDETECTIONTECHNOLOGY_ALT1.tif",
+      "imageFilename4": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANCEDDETECTIONTECHNOLOGY_ALT2.tif",
+      "imageFilename5": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANCEDDETECTIONTECHNOLOGY_ALT3.tif"
+    },
+    "id": 65805324,
+    "number": "65805324",
+    "type": "itemGroup",
+    "typeId": 6806,
+    "values": [
+      {
+        "fieldId": 431,
+        "fieldName": "IG Print Name",
+        "value": "LowCam VI54 Portable UVIS",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 330,
+        "fieldName": "Item Group Name",
+        "value": "LowCam VI54 Portable UVIS",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 433,
+        "fieldName": "IG Print Copy",
+        "value": "The world’s smallest, lightest and most-portable UVIS solution, the LowCam VI54 deploys in less than 60 seconds. The two-camera housing weighs just seven pounds but is tough enough to withstand 40,000 pounds. On screen, the VI54 provides real-time video imaging with full zoom and playback capabilities. It’s perfect for mobile field operations and establishment of temporary perimeters.",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 434,
+        "fieldName": "IG Print Bullets",
+        "value": "Ultra-portable housing weighs 7lbs\rDeploys by one person in less than 60 seconds\rHousing with optional surface-mount\rTwo camera system inspects vehicles up to 10mph\rLong-lasting, bright white LED lighting for day/night operation\r50 ft. cable for safe standoff positioning\rStores up to 250 vehicle records\rWithstands up to 40,000 lbs per axle\rLaptop control unit\rSystem packs into one light-weight Pelican case",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      }
+    ]
+  },
+  {
+    "createDate": 1399925422701,
+    "updateDate": 1461266041467,
+    "categoryId": 4004615535,
+    "allListsItemCount": 0,
+    "lists": [
+      {
+        "name": "printlist",
+        "columns": [
+          {
+            "fieldId": 11003532,
+            "fieldName": "Print Model"
+          },
+          {
+            "fieldId": 11003304,
+            "fieldName": "Print Item Number"
+          }
+        ],
+        "rows": [
+          {
+            "valuesInternal": {
+              "0": "LowCam VI108 Portable UVIS",
+              "1": "VI108P"
+            },
+            "itemId": 52558156,
+            "categoryId": 594752,
+            "values": [
+              "LowCam VI108 Portable UVIS",
+              "VI108P"
+            ],
+            "valuesMapJsonIgnored": {
+              "0": "LowCam VI108 Portable UVIS",
+              "1": "VI108P"
+            }
+          },
+          {
+            "valuesInternal": {
+              "0": "LowCam VI108 Portable UVIS with License Plate Recognition (LPR)",
+              "1": "VI108PLPR"
+            },
+            "itemId": 52558157,
+            "categoryId": 594752,
+            "values": [
+              "LowCam VI108 Portable UVIS with License Plate Recognition (LPR)",
+              "VI108PLPR"
+            ],
+            "valuesMapJsonIgnored": {
+              "0": "LowCam VI108 Portable UVIS with License Plate Recognition (LPR)",
+              "1": "VI108PLPR"
+            }
+          }
+        ],
+        "notes": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "typeId": 7018,
+        "seqOrder": 0,
+        "languageId": 1,
+        "templateId": 119935,
+        "id": 80831367,
+        "eventListId": 25118097
+      }
+    ],
+    "assets": [
+      {
+        "createDate": 1399925526391,
+        "updateDate": 1400182021286,
+        "deleted": 0,
+        "url": "ADVANCEDDETECTIONTECHNOLOGY/VI108_System.tif",
+        "parentId": 65805325,
+        "typeId": 7027,
+        "filename": "VI108_System.tif",
+        "description": "IG Print Photo",
+        "seqOrder": 1,
+        "printActive": 1,
+        "webActive": 0,
+        "typeName": "IG Print Photo",
+        "typeGroupCode": "PRTY",
+        "id": 162960254
+      }
+    ],
+    "masterCategoryId": 1589368,
+    "categoryHierarchy": [
+      "Advanced Detection"
+    ],
+    "vendor": {
+      "id": 14001417,
+      "name": "ADVANCED DETECTION TECHNOLOGY",
+      "number": "1583",
+      "imageFilename1": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANCEDDETECTIONTECHNOLOGY.tif",
+      "imageFilename2": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANCEDDETECTIONTECHNOLOGY.png",
+      "imageFilename3": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANCEDDETECTIONTECHNOLOGY_ALT1.tif",
+      "imageFilename4": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANCEDDETECTIONTECHNOLOGY_ALT2.tif",
+      "imageFilename5": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANCEDDETECTIONTECHNOLOGY_ALT3.tif"
+    },
+    "id": 65805325,
+    "number": "65805325",
+    "type": "itemGroup",
+    "typeId": 6806,
+    "values": [
+      {
+        "fieldId": 433,
+        "fieldName": "IG Print Copy",
+        "value": "Full-featured yet portable, the VI108 is among the most-requested UVIS solutions in the world. Eight cameras provide a highly detailed, real-time quad view while motion-activated cameras automate the inspection process.  Ample storage capacity holds 75,000+ vehicle records.",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 431,
+        "fieldName": "IG Print Name",
+        "value": "LowCam VI108 Portable UVIS",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 330,
+        "fieldName": "Item Group Name",
+        "value": "LowCam VI108 Portable UVIS",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 434,
+        "fieldName": "IG Print Bullets",
+        "value": "Portable hinged housing with optional surface-mount\rDeploys by one person in less than 3 minutes\rTotal ramp weight of 35lbs\rAerospace-grade aluminum housing withstands 20 tons per axle\rEight, motion-activated cameras for automatic inspections\rLong-lasting, bright white LED lighting for day/night operation\r50 ft. cable for safe standoff positioning\rSealed housing eliminates dust and moisture\rStores 75,000+ vehicle records\rInspect vehicles traveling up to 10mph\rQuick and easy on-screen training in less than 30 minutes\rAutomatic License Plate Recognition available\rSystem packs into 2 Pelican cases",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      }
+    ]
+  },
+  {
+    "createDate": 1399925535543,
+    "updateDate": 1461266041467,
+    "categoryId": 4004615535,
+    "allListsItemCount": 0,
+    "lists": [
+      {
+        "name": "printlist",
+        "columns": [
+          {
+            "fieldId": 11003532,
+            "fieldName": "Print Model"
+          },
+          {
+            "fieldId": 11003304,
+            "fieldName": "Print Item Number"
+          }
+        ],
+        "rows": [
+          {
+            "valuesInternal": {
+              "0": "LowCam VI110 Portable UVIS",
+              "1": "VI110PM"
+            },
+            "itemId": 52558158,
+            "categoryId": 594752,
+            "values": [
+              "LowCam VI110 Portable UVIS",
+              "VI110PM"
+            ],
+            "valuesMapJsonIgnored": {
+              "0": "LowCam VI110 Portable UVIS",
+              "1": "VI110PM"
+            }
+          },
+          {
+            "valuesInternal": {
+              "0": "LowCam VI110 Portable UVIS with License Plate Recognition (LPR)",
+              "1": "VI110PLPR"
+            },
+            "itemId": 52558159,
+            "categoryId": 594752,
+            "values": [
+              "LowCam VI110 Portable UVIS with License Plate Recognition (LPR)",
+              "VI110PLPR"
+            ],
+            "valuesMapJsonIgnored": {
+              "0": "LowCam VI110 Portable UVIS with License Plate Recognition (LPR)",
+              "1": "VI110PLPR"
+            }
+          },
+          {
+            "valuesInternal": {
+              "0": "LowCam VI110 Portable UVIS with License Plate Recognition (LPR) and Foreign object Detection (FoD) Suite",
+              "1": "VI110PLPR-FDS"
+            },
+            "itemId": 52558160,
+            "categoryId": 594752,
+            "values": [
+              "LowCam VI110 Portable UVIS with License Plate Recognition (LPR) and Foreign object Detection (FoD) Suite",
+              "VI110PLPR-FDS"
+            ],
+            "valuesMapJsonIgnored": {
+              "0": "LowCam VI110 Portable UVIS with License Plate Recognition (LPR) and Foreign object Detection (FoD) Suite",
+              "1": "VI110PLPR-FDS"
+            }
+          }
+        ],
+        "notes": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "typeId": 7018,
+        "seqOrder": 0,
+        "languageId": 1,
+        "templateId": 119935,
+        "id": 80831368,
+        "eventListId": 25118098
+      }
+    ],
+    "assets": [
+      {
+        "createDate": 1399925642048,
+        "updateDate": 1400182021286,
+        "deleted": 0,
+        "url": "ADVANCEDDETECTIONTECHNOLOGY/VI110_System.tif",
+        "parentId": 65805326,
+        "typeId": 7027,
+        "filename": "VI110_System.tif",
+        "description": "IG Print Photo",
+        "seqOrder": 1,
+        "printActive": 1,
+        "webActive": 0,
+        "typeName": "IG Print Photo",
+        "typeGroupCode": "PRTY",
+        "id": 162960261
+      }
+    ],
+    "masterCategoryId": 1589368,
+    "categoryHierarchy": [
+      "Advanced Detection"
+    ],
+    "vendor": {
+      "id": 14001417,
+      "name": "ADVANCED DETECTION TECHNOLOGY",
+      "number": "1583",
+      "imageFilename1": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANCEDDETECTIONTECHNOLOGY.tif",
+      "imageFilename2": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANCEDDETECTIONTECHNOLOGY.png",
+      "imageFilename3": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANCEDDETECTIONTECHNOLOGY_ALT1.tif",
+      "imageFilename4": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANCEDDETECTIONTECHNOLOGY_ALT2.tif",
+      "imageFilename5": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANCEDDETECTIONTECHNOLOGY_ALT3.tif"
+    },
+    "id": 65805326,
+    "number": "65805326",
+    "type": "itemGroup",
+    "typeId": 6806,
+    "values": [
+      {
+        "fieldId": 431,
+        "fieldName": "IG Print Name",
+        "value": "LowCam VI110 Portable UVIS",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 330,
+        "fieldName": "Item Group Name",
+        "value": "LowCam VI110 Portable UVIS",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 434,
+        "fieldName": "IG Print Bullets",
+        "value": "Six motion-activated cameras for automatic inspections\rSingle image, full color review screen\rForeign object Detection (FoD) sensor suite available\rRamp-mounted front and rear LPR with silent alert\rAutomatic comparison view of returning vehicles\rTotal ramp weight of 25lbs\rScratch-resistant, crystal sapphire lenses\rSealed housing eliminates dust and moisture\rStores up to 150,000+ vehicle records\rSystem packs into two Pelican cases",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 433,
+        "fieldName": "IG Print Copy",
+        "value": "When maximum security is a must, the six-camera LowCam VI110 delivers best-in-class confidence. Integrated license plate recognition automatically accesses the system’s historical database and loads a comparative image, if available, from the vehicle’s most recent visit. Real-time video review keeps your traffic moving, making the VI110 perfect for sensitive facilities with high rates of recurring traffic.",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      }
+    ]
+  },
+  {
+    "createDate": 1399925658023,
+    "updateDate": 1461266041467,
+    "categoryId": 4004615535,
+    "allListsItemCount": 0,
+    "lists": [
+      {
+        "name": "printlist",
+        "columns": [
+          {
+            "fieldId": 11003532,
+            "fieldName": "Print Model"
+          },
+          {
+            "fieldId": 11003304,
+            "fieldName": "Print Item Number"
+          }
+        ],
+        "rows": [
+          {
+            "valuesInternal": {
+              "0": "LowCam VI104 Fixed UVIS",
+              "1": "VI104"
+            },
+            "itemId": 52558161,
+            "categoryId": 594752,
+            "values": [
+              "LowCam VI104 Fixed UVIS",
+              "VI104"
+            ],
+            "valuesMapJsonIgnored": {
+              "0": "LowCam VI104 Fixed UVIS",
+              "1": "VI104"
+            }
+          },
+          {
+            "valuesInternal": {
+              "0": "LowCam VI104 Fixed UVIS with License Plate Recognition (LPR)",
+              "1": "VI104LPR"
+            },
+            "itemId": 52558162,
+            "categoryId": 594752,
+            "values": [
+              "LowCam VI104 Fixed UVIS with License Plate Recognition (LPR)",
+              "VI104LPR"
+            ],
+            "valuesMapJsonIgnored": {
+              "0": "LowCam VI104 Fixed UVIS with License Plate Recognition (LPR)",
+              "1": "VI104LPR"
+            }
+          }
+        ],
+        "notes": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "typeId": 7018,
+        "seqOrder": 0,
+        "languageId": 1,
+        "templateId": 119935,
+        "id": 80831369,
+        "eventListId": 25118099
+      }
+    ],
+    "assets": [
+      {
+        "createDate": 1399925806835,
+        "updateDate": 1400182021286,
+        "deleted": 0,
+        "url": "ADVANCEDDETECTIONTECHNOLOGY/VI104_System.tif",
+        "parentId": 65805327,
+        "typeId": 7027,
+        "filename": "VI104_System.tif",
+        "description": "IG Print Photo",
+        "seqOrder": 1,
+        "printActive": 1,
+        "webActive": 0,
+        "typeName": "IG Print Photo",
+        "typeGroupCode": "PRTY",
+        "id": 162960268
+      }
+    ],
+    "masterCategoryId": 1589368,
+    "categoryHierarchy": [
+      "Advanced Detection"
+    ],
+    "vendor": {
+      "id": 14001417,
+      "name": "ADVANCED DETECTION TECHNOLOGY",
+      "number": "1583",
+      "imageFilename1": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANCEDDETECTIONTECHNOLOGY.tif",
+      "imageFilename2": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANCEDDETECTIONTECHNOLOGY.png",
+      "imageFilename3": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANCEDDETECTIONTECHNOLOGY_ALT1.tif",
+      "imageFilename4": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANCEDDETECTIONTECHNOLOGY_ALT2.tif",
+      "imageFilename5": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANCEDDETECTIONTECHNOLOGY_ALT3.tif"
+    },
+    "id": 65805327,
+    "number": "65805327",
+    "type": "itemGroup",
+    "typeId": 6806,
+    "values": [
+      {
+        "fieldId": 431,
+        "fieldName": "IG Print Name",
+        "value": "LowCam VI104 Fixed UVIS",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 330,
+        "fieldName": "Item Group Name",
+        "value": "LowCam VI104 Fixed UVIS",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 434,
+        "fieldName": "IG Print Bullets",
+        "value": "Low-profile housing mounts flush to road surface\rEight motion-activated cameras for automated inspections\rOn-screen quad views provide overlapping images\rLong-lasting, bright white LED lighting for day/night operation\rInspects vehicles traveling up to 10mph\rMaintenance-free aluminum camera housings and crystal sapphire lenses\rDesktop station enables operation from inside guardhouse\rAutomatic License Plate Recognition available\rQuick and easy on-screen training in less than 30 minutes",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 433,
+        "fieldName": "IG Print Copy",
+        "value": "The LowCam VI104 utilizes eight motion-sensitive cameras to begin the inspection process automatically, providing a comprehensive quad view of all undercarriage components. The low-profile design requires minimum excavation and installs flush to the road surface for unimpeded traffic and street maintenance.",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      }
+    ]
+  },
+  {
+    "createDate": 1399925818130,
+    "updateDate": 1461266041467,
+    "categoryId": 4004615535,
+    "allListsItemCount": 0,
+    "lists": [
+      {
+        "name": "printlist",
+        "columns": [
+          {
+            "fieldId": 11003532,
+            "fieldName": "Print Model"
+          },
+          {
+            "fieldId": 11003304,
+            "fieldName": "Print Item Number"
+          }
+        ],
+        "rows": [
+          {
+            "valuesInternal": {
+              "0": "LowCam VI150 Fixed UVIS",
+              "1": "VI150M"
+            },
+            "itemId": 52558163,
+            "categoryId": 594752,
+            "values": [
+              "LowCam VI150 Fixed UVIS",
+              "VI150M"
+            ],
+            "valuesMapJsonIgnored": {
+              "0": "LowCam VI150 Fixed UVIS",
+              "1": "VI150M"
+            }
+          },
+          {
+            "valuesInternal": {
+              "0": "LowCam VI150 Fixed UVIS with License Plate Recognition (LPR)",
+              "1": "VI150LPR"
+            },
+            "itemId": 52558164,
+            "categoryId": 594752,
+            "values": [
+              "LowCam VI150 Fixed UVIS with License Plate Recognition (LPR)",
+              "VI150LPR"
+            ],
+            "valuesMapJsonIgnored": {
+              "0": "LowCam VI150 Fixed UVIS with License Plate Recognition (LPR)",
+              "1": "VI150LPR"
+            }
+          },
+          {
+            "valuesInternal": {
+              "0": "LowCam VI150 Fixed UVIS with License Plate Recognition (LPR) and Foreign object Detection (FoD) Suite",
+              "1": "VI150LPR-FDS"
+            },
+            "itemId": 52558165,
+            "categoryId": 594752,
+            "values": [
+              "LowCam VI150 Fixed UVIS with License Plate Recognition (LPR) and Foreign object Detection (FoD) Suite",
+              "VI150LPR-FDS"
+            ],
+            "valuesMapJsonIgnored": {
+              "0": "LowCam VI150 Fixed UVIS with License Plate Recognition (LPR) and Foreign object Detection (FoD) Suite",
+              "1": "VI150LPR-FDS"
+            }
+          }
+        ],
+        "notes": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "typeId": 7018,
+        "seqOrder": 0,
+        "languageId": 1,
+        "templateId": 119935,
+        "id": 80831370,
+        "eventListId": 25118100
+      }
+    ],
+    "assets": [
+      {
+        "createDate": 1399925923745,
+        "updateDate": 1400182021286,
+        "deleted": 0,
+        "url": "ADVANCEDDETECTIONTECHNOLOGY/VI150_System.tif",
+        "parentId": 65805328,
+        "typeId": 7027,
+        "filename": "VI150_System.tif",
+        "description": "IG Print Photo",
+        "seqOrder": 1,
+        "printActive": 1,
+        "webActive": 0,
+        "typeName": "IG Print Photo",
+        "typeGroupCode": "PRTY",
+        "id": 162960275
+      }
+    ],
+    "masterCategoryId": 1589368,
+    "categoryHierarchy": [
+      "Advanced Detection"
+    ],
+    "vendor": {
+      "id": 14001417,
+      "name": "ADVANCED DETECTION TECHNOLOGY",
+      "number": "1583",
+      "imageFilename1": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANCEDDETECTIONTECHNOLOGY.tif",
+      "imageFilename2": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANCEDDETECTIONTECHNOLOGY.png",
+      "imageFilename3": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANCEDDETECTIONTECHNOLOGY_ALT1.tif",
+      "imageFilename4": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANCEDDETECTIONTECHNOLOGY_ALT2.tif",
+      "imageFilename5": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANCEDDETECTIONTECHNOLOGY_ALT3.tif"
+    },
+    "id": 65805328,
+    "number": "65805328",
+    "type": "itemGroup",
+    "typeId": 6806,
+    "values": [
+      {
+        "fieldId": 431,
+        "fieldName": "IG Print Name",
+        "value": "LowCam VI150 Fixed UVIS",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 330,
+        "fieldName": "Item Group Name",
+        "value": "LowCam VI150 Fixed UVIS",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 434,
+        "fieldName": "IG Print Bullets",
+        "value": "Motion-activated cameras for automatic inspections\rRamp-mounted, front and rear LPR with silent alert\rForeign object detection (FoD) suite available\rAutomatic comparison view of returning vehicles\rScratch-resistant, crystal sapphire lenses\rSealed housing eliminates dust and moisture\rStores up to 150,000+ vehicle records\rDesktop station enables operation from inside guardhouse\rQuick and easy on-screen training in less than 30 minutes",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 433,
+        "fieldName": "IG Print Copy",
+        "value": "The LowCam VI150 offers everything you need in a full-functioning and fixed UVIS solution. Using six cameras, active LPR and optional FoD suite, the VI150 enables you to compare images of any returning vehicle in order to spot anomalies. The low-profile, high-durability housing installs with minimum excavation and withstands 40,000 pounds per axle while the real-time video review keeps your traffic moving.",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      }
+    ]
+  },
+  {
+    "createDate": 1426277431370,
+    "updateDate": 1461266063459,
+    "categoryId": 4004615536,
+    "allListsItemCount": 0,
+    "lists": [
+      {
+        "name": "printlist",
+        "columns": [
+          {
+            "fieldId": 11003532,
+            "fieldName": "Print Model"
+          },
+          {
+            "fieldId": 11003304,
+            "fieldName": "Print Item Number"
+          }
+        ],
+        "rows": [
+          {
+            "valuesInternal": {
+              "0": "Contact ADS for ordering information",
+              "1": null
+            },
+            "itemId": 52554600,
+            "categoryId": 1589272,
+            "values": [
+              "Contact ADS for ordering information",
+              null
+            ],
+            "valuesMapJsonIgnored": {
+              "0": "Contact ADS for ordering information",
+              "1": null
+            }
+          }
+        ],
+        "notes": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "typeId": 7018,
+        "seqOrder": 0,
+        "languageId": 1,
+        "templateId": 119935,
+        "id": 120815168,
+        "eventListId": 25118101
+      }
+    ],
+    "assets": [
+      {
+        "createDate": 1426543982685,
+        "updateDate": 1427925355005,
+        "deleted": 0,
+        "url": "ADVANTACTECHNOLOGIES/ARC_ATV_Rolling_out123_2015.tif",
+        "parentId": 65807490,
+        "typeId": 7027,
+        "filename": "ARC_ATV_Rolling_out123_2015.tif",
+        "description": "IG Print Photo",
+        "seqOrder": 1,
+        "printActive": 1,
+        "webActive": 0,
+        "typeName": "IG Print Photo",
+        "typeGroupCode": "PRTY",
+        "id": 163261088
+      }
+    ],
+    "masterCategoryId": 1590938,
+    "categoryHierarchy": [
+      "Advantac"
+    ],
+    "vendor": {
+      "id": 19046778,
+      "name": "ADVANTAC TECHNOLOGIES",
+      "number": "2262A",
+      "imageFilename1": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANTACTECHNOLOGIES.tif",
+      "imageFilename2": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANTACTECHNOLOGIES.png",
+      "imageFilename3": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANTACTECHNOLOGIES_ALT1.tif",
+      "imageFilename4": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANTACTECHNOLOGIES_ALT2.tif",
+      "imageFilename5": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANTACTECHNOLOGIES_ALT3.tif"
+    },
+    "id": 65807490,
+    "number": "65807490",
+    "type": "itemGroup",
+    "typeId": 6806,
+    "values": [
+      {
+        "fieldId": 431,
+        "fieldName": "IG Print Name",
+        "value": "ARC™",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 330,
+        "fieldName": "Item Group Name",
+        "value": "ARC™",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 433,
+        "fieldName": "IG Print Copy",
+        "value": "For over ten years the ARC™   has provided dependable transport/protection of assets while containing features that provide multi modal capability. Fully assembled, the standard ARC™ configuration has external dimensions of 96\" x 52\" x 48\", with optional heights up to 80”. Collapsed, this mobility container is 96\" x 52\" x 16\", allowing three collapsed containers to be stacked empty in the same storage space as one fully assembled container. The ARC™ weighs less than 500 lbs., is extremely durable, can load/offload without use of heavy lifting equipment and incorporates wheel and towing system, which is stored within the unit. This container has been specifically designed to provide many uses by transforming into various mission-essential configurations, including sleeping quarters, work desks, storage, kits and water bladder trailer.",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      }
+    ]
+  },
+  {
+    "createDate": 1426543998550,
+    "updateDate": 1461266063459,
+    "categoryId": 4004615536,
+    "allListsItemCount": 0,
+    "lists": [
+      {
+        "name": "printlist",
+        "columns": [
+          {
+            "fieldId": 11003532,
+            "fieldName": "Print Model"
+          },
+          {
+            "fieldId": 11003304,
+            "fieldName": "Print Item Number"
+          }
+        ],
+        "rows": [
+          {
+            "valuesInternal": {
+              "0": "Contact ADS for ordering information",
+              "1": null
+            },
+            "itemId": 52554600,
+            "categoryId": 1589272,
+            "values": [
+              "Contact ADS for ordering information",
+              null
+            ],
+            "valuesMapJsonIgnored": {
+              "0": "Contact ADS for ordering information",
+              "1": null
+            }
+          }
+        ],
+        "notes": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "typeId": 7018,
+        "seqOrder": 0,
+        "languageId": 1,
+        "templateId": 119935,
+        "id": 120815180,
+        "eventListId": 25118102
+      }
+    ],
+    "assets": [
+      {
+        "createDate": 1426544086089,
+        "updateDate": 1427925356135,
+        "deleted": 0,
+        "url": "ADVANTACTECHNOLOGIES/Genesis_Stacked123_2015.tif",
+        "parentId": 65807497,
+        "typeId": 7027,
+        "filename": "Genesis_Stacked123_2015.tif",
+        "description": "IG Print Photo",
+        "seqOrder": 1,
+        "printActive": 1,
+        "webActive": 0,
+        "typeName": "IG Print Photo",
+        "typeGroupCode": "PRTY",
+        "id": 163261093
+      }
+    ],
+    "masterCategoryId": 1590938,
+    "categoryHierarchy": [
+      "Advantac"
+    ],
+    "vendor": {
+      "id": 19046778,
+      "name": "ADVANTAC TECHNOLOGIES",
+      "number": "2262A",
+      "imageFilename1": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANTACTECHNOLOGIES.tif",
+      "imageFilename2": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANTACTECHNOLOGIES.png",
+      "imageFilename3": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANTACTECHNOLOGIES_ALT1.tif",
+      "imageFilename4": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANTACTECHNOLOGIES_ALT2.tif",
+      "imageFilename5": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANTACTECHNOLOGIES_ALT3.tif"
+    },
+    "id": 65807497,
+    "number": "65807497",
+    "type": "itemGroup",
+    "typeId": 6806,
+    "values": [
+      {
+        "fieldId": 431,
+        "fieldName": "IG Print Name",
+        "value": "Genesis™",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 330,
+        "fieldName": "Item Group Name",
+        "value": "Genesis™",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 433,
+        "fieldName": "IG Print Copy",
+        "value": "The Genesis™ allows deploying personnel the ability to completely utilize a standard 463L air cargo pallet. Because of their compact size, three Genesis™ containers stand evenly with two ARC™ containers or nine Genesis stand alone to cube out a pallet. For loading into aircraft with sidewall loading restrictions, one of the top outside containers can be removed to accommodate the curvature and shape of the aircraft fuselage.  Fully assembled the standard Genesis configuration has external dimensions of 96” x 28” x 32”, with optional heights up to 80“.  Collapsed, this mobility container is 96” x 28” x 16”.  The Genesis weighs 175 lbs. is extremely durable and has retractable folding wheels.",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      }
+    ]
+  },
+  {
+    "createDate": 1426544117834,
+    "updateDate": 1461266063459,
+    "categoryId": 4004615536,
+    "allListsItemCount": 0,
+    "lists": [
+      {
+        "name": "printlist",
+        "columns": [
+          {
+            "fieldId": 11003532,
+            "fieldName": "Print Model"
+          },
+          {
+            "fieldId": 11003304,
+            "fieldName": "Print Item Number"
+          }
+        ],
+        "rows": [
+          {
+            "valuesInternal": {
+              "0": "Contact ADS for ordering information",
+              "1": null
+            },
+            "itemId": 52554600,
+            "categoryId": 1589272,
+            "values": [
+              "Contact ADS for ordering information",
+              null
+            ],
+            "valuesMapJsonIgnored": {
+              "0": "Contact ADS for ordering information",
+              "1": null
+            }
+          }
+        ],
+        "notes": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "typeId": 7018,
+        "seqOrder": 0,
+        "languageId": 1,
+        "templateId": 119935,
+        "id": 120815181,
+        "eventListId": 25118103
+      }
+    ],
+    "assets": [
+      {
+        "createDate": 1426544159869,
+        "updateDate": 1427925345540,
+        "deleted": 0,
+        "url": "ADVANTACTECHNOLOGIES/Cubit_Armor123_2015.tif",
+        "parentId": 65807498,
+        "typeId": 7027,
+        "filename": "Cubit_Armor123_2015.tif",
+        "description": "IG Print Photo",
+        "seqOrder": 1,
+        "printActive": 1,
+        "webActive": 0,
+        "typeName": "IG Print Photo",
+        "typeGroupCode": "PRTY",
+        "id": 163261100
+      }
+    ],
+    "masterCategoryId": 1590938,
+    "categoryHierarchy": [
+      "Advantac"
+    ],
+    "vendor": {
+      "id": 19046778,
+      "name": "ADVANTAC TECHNOLOGIES",
+      "number": "2262A",
+      "imageFilename1": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANTACTECHNOLOGIES.tif",
+      "imageFilename2": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANTACTECHNOLOGIES.png",
+      "imageFilename3": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANTACTECHNOLOGIES_ALT1.tif",
+      "imageFilename4": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANTACTECHNOLOGIES_ALT2.tif",
+      "imageFilename5": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANTACTECHNOLOGIES_ALT3.tif"
+    },
+    "id": 65807498,
+    "number": "65807498",
+    "type": "itemGroup",
+    "typeId": 6806,
+    "values": [
+      {
+        "fieldId": 431,
+        "fieldName": "IG Print Name",
+        "value": "Cubit™",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 330,
+        "fieldName": "Item Group Name",
+        "value": "Cubit™",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 433,
+        "fieldName": "IG Print Copy",
+        "value": "The Cubit™ is a stackable container designed to help organize and separate contents into more manageable loads. Nested together, 11 Cubits™ fit within an ARC™ and four in a Genesis™. Each Cubit™ measures 45\" x 23\" x 12\", weighs 14lbs, is extremely durable and includes built-in handles for easy mobility.",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      }
+    ]
+  },
+  {
+    "createDate": 1426544215053,
+    "updateDate": 1461266063459,
+    "categoryId": 4004615536,
+    "allListsItemCount": 0,
+    "lists": [
+      {
+        "name": "printlist",
+        "columns": [
+          {
+            "fieldId": 11003532,
+            "fieldName": "Print Model"
+          },
+          {
+            "fieldId": 11003304,
+            "fieldName": "Print Item Number"
+          }
+        ],
+        "rows": [
+          {
+            "valuesInternal": {
+              "0": "Contact ADS for ordering information",
+              "1": null
+            },
+            "itemId": 52554600,
+            "categoryId": 1589272,
+            "values": [
+              "Contact ADS for ordering information",
+              null
+            ],
+            "valuesMapJsonIgnored": {
+              "0": "Contact ADS for ordering information",
+              "1": null
+            }
+          }
+        ],
+        "notes": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "typeId": 7018,
+        "seqOrder": 0,
+        "languageId": 1,
+        "templateId": 119935,
+        "id": 120815182,
+        "eventListId": 25118104
+      }
+    ],
+    "assets": [
+      {
+        "createDate": 1426544254425,
+        "updateDate": 1427923719425,
+        "deleted": 0,
+        "url": "ADVANTACTECHNOLOGIES/CAPS_CBRIPS_3_Action_2015.tif",
+        "parentId": 65807499,
+        "typeId": 7027,
+        "filename": "CAPS_CBRIPS_3_Action_2015.tif",
+        "description": "IG Print Photo",
+        "seqOrder": 1,
+        "printActive": 1,
+        "webActive": 0,
+        "typeName": "IG Print Photo",
+        "typeGroupCode": "PRTY",
+        "id": 163261105
+      }
+    ],
+    "masterCategoryId": 1590938,
+    "categoryHierarchy": [
+      "Advantac"
+    ],
+    "vendor": {
+      "id": 19046778,
+      "name": "ADVANTAC TECHNOLOGIES",
+      "number": "2262A",
+      "imageFilename1": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANTACTECHNOLOGIES.tif",
+      "imageFilename2": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANTACTECHNOLOGIES.png",
+      "imageFilename3": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANTACTECHNOLOGIES_ALT1.tif",
+      "imageFilename4": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANTACTECHNOLOGIES_ALT2.tif",
+      "imageFilename5": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANTACTECHNOLOGIES_ALT3.tif"
+    },
+    "id": 65807499,
+    "number": "65807499",
+    "type": "itemGroup",
+    "typeId": 6806,
+    "values": [
+      {
+        "fieldId": 431,
+        "fieldName": "IG Print Name",
+        "value": "CAPS CBRIPS™",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 330,
+        "fieldName": "Item Group Name",
+        "value": "CAPS CBRIPS™",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 433,
+        "fieldName": "IG Print Copy",
+        "value": "The patented CAPS™ (Contaminant Air Processing System™) CBRIPS™ (Chemical, Biological, and Radiological Integrated Processing System™) is a sophisticated decontamination processing system. It is a compact, self-contained, mobile and air-transportable system that provides all components required for establishing a stand-alone Contamination Control Area (CCA).  The CAPS™ standardized CBRNE decontamination platform consists of a main system and supplemental kits designed for interoperability. CAPS™ has been developed for complete customization to meet individual agency needs, while maintaining a general standardized processing ideology for those agencies to be able to combine resources and work together when catastrophe strikes. All systems fit in one ARC™ for storage, yet provide all necessary components for operating self-sufficiently at remote locations.",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      }
+    ]
+  },
+  {
+    "createDate": 1426544274410,
+    "updateDate": 1461266063459,
+    "categoryId": 4004615536,
+    "allListsItemCount": 0,
+    "lists": [
+      {
+        "name": "printlist",
+        "columns": [
+          {
+            "fieldId": 11003532,
+            "fieldName": "Print Model"
+          },
+          {
+            "fieldId": 11003304,
+            "fieldName": "Print Item Number"
+          }
+        ],
+        "rows": [
+          {
+            "valuesInternal": {
+              "0": "Contact ADS for ordering information",
+              "1": null
+            },
+            "itemId": 52554600,
+            "categoryId": 1589272,
+            "values": [
+              "Contact ADS for ordering information",
+              null
+            ],
+            "valuesMapJsonIgnored": {
+              "0": "Contact ADS for ordering information",
+              "1": null
+            }
+          }
+        ],
+        "notes": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "typeId": 7018,
+        "seqOrder": 0,
+        "languageId": 1,
+        "templateId": 119935,
+        "id": 120815183,
+        "eventListId": 25118105
+      }
+    ],
+    "assets": [
+      {
+        "createDate": 1426544327237,
+        "updateDate": 1426610892999,
+        "deleted": 0,
+        "url": "ADVANTACTECHNOLOGIES/HRK_1_2015.tif",
+        "parentId": 65807500,
+        "typeId": 7027,
+        "filename": "HRK_1_2015.tif",
+        "description": "IG Print Photo",
+        "seqOrder": 1,
+        "printActive": 1,
+        "webActive": 0,
+        "typeName": "IG Print Photo",
+        "typeGroupCode": "PRTY",
+        "id": 163261112
+      }
+    ],
+    "masterCategoryId": 1590938,
+    "categoryHierarchy": [
+      "Advantac"
+    ],
+    "vendor": {
+      "id": 19046778,
+      "name": "ADVANTAC TECHNOLOGIES",
+      "number": "2262A",
+      "imageFilename1": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANTACTECHNOLOGIES.tif",
+      "imageFilename2": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANTACTECHNOLOGIES.png",
+      "imageFilename3": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANTACTECHNOLOGIES_ALT1.tif",
+      "imageFilename4": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANTACTECHNOLOGIES_ALT2.tif",
+      "imageFilename5": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANTACTECHNOLOGIES_ALT3.tif"
+    },
+    "id": 65807500,
+    "number": "65807500",
+    "type": "itemGroup",
+    "typeId": 6806,
+    "values": [
+      {
+        "fieldId": 330,
+        "fieldName": "Item Group Name",
+        "value": "HRK™ & HRK2™",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 433,
+        "fieldName": "IG Print Copy",
+        "value": "The Hit and Run Kit™ (HRK™) is an immediate action processing line that has been developed to meet the widest spectrum of contaminant threat processing while minimizing bulk and weight. The HRK™ is available in two configurations, the HRK2™ and the HRK2 Elite™. It provides 100% site remediation capability for clean-up and evidentiary purposes. The Elite has the added feature of a full misting shower station and all necessary supporting components.",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      }
+    ]
+  },
+  {
+    "createDate": 1426544345401,
+    "updateDate": 1461266063459,
+    "categoryId": 4004615536,
+    "allListsItemCount": 0,
+    "lists": [
+      {
+        "name": "printlist",
+        "columns": [
+          {
+            "fieldId": 11003532,
+            "fieldName": "Print Model"
+          },
+          {
+            "fieldId": 11003304,
+            "fieldName": "Print Item Number"
+          }
+        ],
+        "rows": [
+          {
+            "valuesInternal": {
+              "0": "Contact ADS for ordering information",
+              "1": null
+            },
+            "itemId": 52554600,
+            "categoryId": 1589272,
+            "values": [
+              "Contact ADS for ordering information",
+              null
+            ],
+            "valuesMapJsonIgnored": {
+              "0": "Contact ADS for ordering information",
+              "1": null
+            }
+          }
+        ],
+        "notes": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "typeId": 7018,
+        "seqOrder": 0,
+        "languageId": 1,
+        "templateId": 119935,
+        "id": 120815184,
+        "eventListId": 25118106
+      }
+    ],
+    "assets": [
+      {
+        "createDate": 1426544404574,
+        "updateDate": 1427925356610,
+        "deleted": 0,
+        "url": "ADVANTACTECHNOLOGIES/EMES_Deployed123_2015.tif",
+        "parentId": 65807501,
+        "typeId": 7027,
+        "filename": "EMES_Deployed123_2015.tif",
+        "description": "IG Print Photo",
+        "seqOrder": 1,
+        "printActive": 1,
+        "webActive": 0,
+        "typeName": "IG Print Photo",
+        "typeGroupCode": "PRTY",
+        "id": 163261119
+      }
+    ],
+    "masterCategoryId": 1590938,
+    "categoryHierarchy": [
+      "Advantac"
+    ],
+    "vendor": {
+      "id": 19046778,
+      "name": "ADVANTAC TECHNOLOGIES",
+      "number": "2262A",
+      "imageFilename1": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANTACTECHNOLOGIES.tif",
+      "imageFilename2": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANTACTECHNOLOGIES.png",
+      "imageFilename3": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANTACTECHNOLOGIES_ALT1.tif",
+      "imageFilename4": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANTACTECHNOLOGIES_ALT2.tif",
+      "imageFilename5": "https://prd02.apsiva.net/245/AP_SUPPLIER/ADVANTACTECHNOLOGIES_ALT3.tif"
+    },
+    "id": 65807501,
+    "number": "65807501",
+    "type": "itemGroup",
+    "typeId": 6806,
+    "values": [
+      {
+        "fieldId": 431,
+        "fieldName": "IG Print Name",
+        "value": "EMES™",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 330,
+        "fieldName": "Item Group Name",
+        "value": "EMES™",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      },
+      {
+        "fieldId": 433,
+        "fieldName": "IG Print Copy",
+        "value": "The Expedient Mission Oriented Protective Posture (MOPP) Exchange System™ (EMES™) is a compact (man packable), multi-threat decontamination system specifically designed for processing small teams where access to a Contamination Control Area (CCA) is impractical or impossible. EMES™ is well-suited for Contingency Response Groups, Combat Communications Units, Civil Engineering Teams, Security Forces Personnel, and other Special Operations Teams.",
+        "uniqueness": false,
+        "mfgPartNo": false,
+        "languageId": 1
+      }
+    ]
+  }
+]

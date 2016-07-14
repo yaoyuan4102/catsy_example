@@ -1,0 +1,92 @@
+html, body{
+    font-family: arial, sans-serif;
+    min-height: 100%;
+    position: relative;
+    color: #656d78;
+}
+.index body{
+    overflow:scroll;
+    background-color: #f6f6f6;
+}
+html{
+    height:100% !important;
+}
+html.fullwidth, .fullwidth body{
+    width:100% !important;
+    height:100% !important;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: arial, sans-serif;
+    font-weight: bold;
+}
+.container-fluid {
+    padding: 0;
+}
+/*header*/
+.navbar-inverse {
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    border-radius: 0;
+    border-bottom-width: 0px;
+    border-style: solid;
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+    z-index: 999;
+}
+
+.topbar {
+    width: 960px;
+    top:50%;
+    left:50%;
+}
+
+.top-cate {
+    float: left;
+    width: 300px;
+}
+
+.top-search {
+    width: 300px;
+    width: auto;
+    margin-top: 8px;
+}
+
+.top-user {
+    float: right;
+    width: 360px;
+}
+
+
+.main-content {
+    width: 960px;
+    margin-top: 50px;
+    position:absolute;
+    left:50%;
+    margin-left: -480px;
+}
+
+.box {
+    height: 250px;
+}
+
+.box-height {
+    overflow:scroll;
+    max-height: 150px;
+}
+
+.number {
+    background-color: white;
+    color: black;
+    border: 1px solid lightgray;
+    padding: 3px;
+    margin: -10px 0 0 -4px;
+}
+
+
+
+/*.breadcrumb {*/
+    /*width: 960px;*/
+    /*left: 50%;*/
+/*}*/

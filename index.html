@@ -1,0 +1,120 @@
+<!doctype html>
+<html ng-app="CatsyApp">
+<head>
+    <link rel="stylesheet" href="//cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link href="public/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="public/css/catsy.css">
+</head>
+<body class="row col-md-12 col-sm-12 col-xs-12" ng-controller="CatsyController">
+<!--header-->
+    <div class="navbar navbar-inverse navbar-default">
+        <div class="container-fluid navbar-container topbar">
+            <ul class="nav navbar-nav" >
+                <li class="dropdown top-cate">
+                    <a href="" role="button" data-toggle="dropdown">CSR Catalog<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li class="list-group-item" ng-repeat="category in categories">
+                            <a href="">{{ category.category }}</a>
+                        </li>
+                    </ul>
+                </li>
+
+                <li class="top-search">
+                    <input ng-model="kobj.name" type="text" class="form-control" placeholder="Search for..." style="float: left; width: 300px; left: 30%; top: 50%">
+                </li>
+
+                <li class="dropdown top-user">
+                    <a href="" role="button" data-toggle="dropdown" style="float:right;">Howdy Web!<span class="caret"></span></a>
+                    <ul class="dropdown-menu dropdown-menu-right">
+                        <li><a href="#">&nbsp;Profile</a></li>
+                        <li><a href="#">&nbsp;Log Out</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="main-content">
+        <ol class="breadcrumb" style="background-color: white">
+            <li><a href="#">CSR Catalog</a></li>
+            <li class="active">Apparel</li>
+        </ol>
+        <div class="row col-md-12 col-sm-12 col-xs-12">
+            <div class="col-md-3 col-sm-3 col-xs-3">
+                <div class="row">
+                    <div class="panel-group">
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                <h4 class="panel-title">
+                                    <a data-toggle="collapse" href="#collapse1">CATEGORY<span class="caret pull-right" style="margin-top: 5px"></span></a>
+                                </h4>
+                            </div>
+                            <div id="collapse1" class="panel-collapse collapse">
+                                <ul class="list-group box-height">
+                                    <li class="list-group-item" ng-repeat="category in categories"><input type="checkbox" aria-label="" ng-click="choose(category.category)">&nbsp;{{ category.category }}</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="panel-group">
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                <h4 class="panel-title">
+                                    <a data-toggle="collapse" href="#collapse2">COLORS<span class="caret pull-right" style="margin-top: 5px"></span></a>
+                                </h4>
+                            </div>
+                            <div id="collapse2" class="panel-collapse collapse">
+                                <ul class="list-group box-height">
+                                    <li class="list-group-item"><input type="checkbox" aria-label="...">&nbsp;One</li>
+                                    <li class="list-group-item"><input type="checkbox" aria-label="...">&nbsp;Two</li>
+                                    <li class="list-group-item"><input type="checkbox" aria-label="...">&nbsp;Three</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-9 col-sm-9 col-xs-9">
+                <div class="panel panel-default" style="margin-right: -30px">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            Showing {{ item_num }} products
+                            <span class="pull-right">
+                                <a href="" ng-click="layout(1)"><i class="fa fa-bars" aria-hidden="true"></i>&nbsp;</a>
+                                <a href="" ng-click="layout(2)"><i class="fa fa-th-list" aria-hidden="true"></i>&nbsp;</a>
+                                <a href="" ng-click="layout(4)"><i class="fa fa-list-alt" aria-hidden="true"></i>&nbsp;</a>
+                            </span>
+                        </h4>
+
+                    </div>
+
+                </div>
+                <div class="row" style="margin-left: -15px;margin-right: -45px">
+                    <div class="container-fluid">
+                        <div class="section-body">
+                            <div class="items col-md-3 col-sm-3 col-xs-3" ng-repeat="item in items">
+                                <a href="#" class="thumbnail box">
+                                    <img src="http://assets.academy.com/mgen/54/10173954.jpg" alt="..." style="max-height: 80%">
+                                    <span class="label label-default number"><i class="fa fa-sitemap" aria-hidden="true" style="color: green"></i>&nbsp;{{ item.lists[0].rows[0].values[1] }}</span>
+                                    <div>
+                                        <h5 style="color: black">{{ item.lists[0].rows[0].values[0] }}</h5>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</body>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>
+    <script src="//cdn.bootcss.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script src="public/js/catsy.js"></script>
+</html>
